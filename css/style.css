@@ -1,0 +1,65 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  background-color: rgb(246,248,249);
+ 
+}
+header{
+  background-color: white;
+  height: 80px;
+}
+
+.container{
+  max-width: 900px;
+  margin: 0 auto;
+
+}
+
+/* intestazione */
+ header img{
+ 
+  height: 60px;
+  vertical-align: middle;
+  margin-left: 25px;
+}
+
+ header span{
+  font-size: 3em;
+  font-weight: bold;
+ }
+ /* intestazione */
+ 
+
+  /* menù */
+ .menù{
+  margin-top: 50px;
+  background-color: white;
+  padding: 20px;
+ }
+
+ .aggiungi{
+  display: inline-block;
+  padding: 5px 8px;
+  border-radius: 5px;
+ }
+
+ #task{
+  background-color: rgb(71,173,241);
+  border: 2px solid rgb(71,173,241);
+  color: white;
+ }
+
+ #section{
+  background-color: white;
+  border: 2px solid lightgray;
+  color: lightgray;
+ }
+ /* .menù */
+
+  
+  
+
+ 
